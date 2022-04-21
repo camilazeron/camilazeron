@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on development front-end
-- 🌱 I’m currently learning  Javascript , Vue.js, HTML, CSS
+- 🌱 I’m currently learning  Javascript , Vue.js, React.js, HTML, CSS
 - 👯 I’m looking to collaborate on in the web development area
 - 📫 How to reach me: camilazeron10@gmail.com
 - 😄 Pronouns: she/her
