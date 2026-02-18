@@ -1,6 +1,6 @@
 # Hi, I'm Camila Zeron 👋
 
-💼 Data Engineer | Data Governance | Cloud Data
+💼 Data Engineer | Data Governance | Cloud Data | Data Quality
 
 I am a Data Engineer working in the financial sector with focus on data pipelines, data quality, and governance.
 
